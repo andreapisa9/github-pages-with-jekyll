@@ -1,5 +1,5 @@
 ---
-title: GIOVANNI RANA
+title: "GIOVANNI RANA"
 date: 2020-12-16
 ---
 
